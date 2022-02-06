@@ -36,7 +36,7 @@ const listThemes = [
             },
 			{
                 name: 'Giáng Sinh Vui Vẻ',
-                image: 'https://zmp3-static.zadn.vn/skins/zmp3-v6.1/images/theme/Theme-Thumb-Christmas-dynamic-21.png'
+                image: 'https://zmp3-static.zadn.vn/skins/zmp3-v6.1/images/theme/Theme-Thumb-Christmas-dark.png'
             },
 			{
                 name: 'Giáng Sinh Hạnh Phúc',
