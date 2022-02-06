@@ -132,25 +132,25 @@ const Themes = [
         },
 		{
 			//Giáng Sinh
-            image:'https://zmp3-static.zadn.vn/skins/zmp3-v6.1/images/theme-background/Theme-Christmas-2021-Light.png',
+            image:'https://zmp3-static.zadn.vn/skins/zmp3-v6.1/images/theme-background/Theme-Christmas-2021.png',
             colors: {
                 bgContentColor:"#ffffff1a",
                 borderBox:"rgb(255 255 255 / 20%)",
                 borderPrimary:"rgb(255 255 255 / 10%)",
-                layoutBg:"#f2e5d0",
-                linkTextHover:"#fe63da",
+                layoutBg:"#10518d",
+                linkTextHover:"#6e8ffb",
                 modalScrollbar:"rgba(16,31,63,0.8)",
                 //playerBg:"rgba(0,0,0,0.2)",
-                purplePrimary:"#8c8471",
-                primaryBg:"#fffffe",
-                sidebarPopupBg: "#f2f2f2",
-                textColor:"#32323d",
-                textItemHover:"#8c8471",
-                textSecondary:"#696969",
-                navigationText: "#32323d",
-                placeholderText: "#757575",
+                purplePrimary:"#3460f5",
+                primaryBg:"#192f60",
+                sidebarPopupBg: "#1d2a49",
+                textColor:"#fff",
+                textItemHover:"#fff",
+                textSecondary:"hsla(0,0%,100%,0.5)",
+                navigationText: "#dadada",
+                placeholderText: "#dadada",
             },
-            playerImage: 'https://zmp3-static.zadn.vn/skins/zmp3-v6.1/images/theme/Miniplayer-Christmas-2021-light.png',
+            playerImage: 'https://zmp3-static.zadn.vn/skins/zmp3-v6.1/images/theme/Miniplayer-Christmas-2021.png'
         },
 		{
 			//Giáng Sinh An Lành
