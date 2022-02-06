@@ -10,6 +10,54 @@ const listThemes = [
                 name: 'Tháp Eiffel',
                 image: './assets/img/modalThemes/modalTheme1/theme2.jpg'
             },
+			{
+                name: 'London',
+                image: 'https://zmp3-static.zadn.vn/skins/zmp3-v6.1/images/theme/London-thumb.png'
+            },
+			{
+                name: 'Tết Sum Vầy',
+                image: 'https://zmp3-static.zadn.vn/skins/zmp3-v6.1/images/theme/new-year-thumbnail-dynamic.png'
+            },
+			{
+                name: 'Tết Tài Lộc',
+                image: 'https://zmp3-static.zadn.vn/skins/zmp3-v6.1/images/theme/new-year-thumbnail-dynamic.png'
+            },
+			{
+                name: 'Tết Đoàn Viên',
+                image: 'https://zmp3-static.zadn.vn/skins/zmp3-v6.1/images/theme/new-year-thumbnail-dark.png'
+            },
+			{
+                name: 'Giáng Sinh',
+                image: 'https://zmp3-static.zadn.vn/skins/zmp3-v6.1/images/theme/Theme-Thumb-Christmas-dynamic-21.png'
+            },
+			{
+                name: 'Giáng Sinh An Lành',
+                image: 'https://zmp3-static.zadn.vn/skins/zmp3-v6.1/images/theme/Theme-Thumb-Christmas-21.png'
+            },
+			{
+                name: 'Giáng Sinh Vui Vẻ',
+                image: 'https://zmp3-static.zadn.vn/skins/zmp3-v6.1/images/theme/Theme-Thumb-Christmas-dynamic-21.png'
+            },
+			{
+                name: 'Giáng Sinh Hạnh Phúc',
+                image: 'https://zmp3-static.zadn.vn/skins/zmp3-v6.1/images/theme/Theme-Thumb-Christmas-light.png'
+            },
+			{
+                name: 'Sáng Tối',
+                image: 'https://zmp3-static.zadn.vn/skins/zmp3-v6.1/images/theme/dynamic-light-dark-1.jpg'
+            },
+			{
+                name: 'Xanh Da Trời',
+                image: 'https://zmp3-static.zadn.vn/skins/zmp3-v6.1/images/theme/dynamic-blue.jpg'
+            },
+			{
+                name: 'Hồng',
+                image: 'https://zmp3-static.zadn.vn/skins/zmp3-v6.1/images/theme/dynamic-pink.jpg'
+            },
+			{
+                name: 'Nâu',
+                image: 'https://zmp3-static.zadn.vn/skins/zmp3-v6.1/images/theme/dynamic-brown.jpg'
+            }
         ]
     },
     {
