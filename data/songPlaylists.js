@@ -454,6 +454,34 @@ var listSong = [
             image: "./assets/img/music/listSong4/song17.jpg"
         },
     ],
+	[
+		{
+			name: "Còn Đây Nỗi Nhớ",
+			singer: ["Jimmii Nguyễn"],
+			path: "https://dl.dropboxusercontent.com/s/tngiybgalkhwu2y/Jimmii.Nguyen-Con.Day.Noi.Nho.mp3",
+			image: "https://dl.dropboxusercontent.com/s/775719x1vlyejsc/Jimmii.Nguyen.Avatar.jpg"
+		},
+		{
+			name: "Con Tim Đang Cố Quên",
+			singer: ["Jimmii Nguyễn"],
+			path: "https://dl.dropboxusercontent.com/s/f974tbib9j5ixdm/Jimmii.Nguyen-Con.Tim.Dang.Co.Quen.mp3",
+			image: "https://dl.dropboxusercontent.com/s/775719x1vlyejsc/Jimmii.Nguyen.Avatar.jpg"
+		}
+	],
+	[
+		{
+			name: "Anh Không Tha Thứ",
+			singer: ["Đình Dũng"],
+			path: "https://dl.dropboxusercontent.com/s/1ezhi99a35b79kn/Dinh.Dung-Anh.Khong.Tha.Thu.mp3",
+			image: "https://avatar-ex-swe.nixcdn.com/song/2020/09/28/4/9/a/7/1601278894694_500.jpg"
+		},
+		{
+			name: "Bán Duyên",
+			singer: ["Đình Dũng"],
+			path: "https://dl.dropboxusercontent.com/s/fzaubpe34svchbo/Dinh.Dung-Ban.Duyen.mp3",
+			image: "https://photo-resize-zmp3.zadn.vn/w240_r1x1_webp/cover/6/0/c/a/60ca5b692d14a746aeb7d87e3f11250f.jpg"
+		}
+	]
 ];
 
 const MUSIC_STORAGE_KEY = 'VIK_MUSIC';
