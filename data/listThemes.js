@@ -2,7 +2,11 @@ const listThemes = [
     {
         type: 'Chủ đề',
         themes: [
-            {
+           {
+                name: 'XONE',
+                image: './assets/img/modalThemes/modalTheme1/xone-thumbn.jpg'
+           },
+	   {
                 name: 'Zing Music Awards',
                 image: './assets/img/modalThemes/modalTheme1/theme1.jpg'
             },
