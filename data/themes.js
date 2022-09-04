@@ -1,6 +1,27 @@
 const Themes = [
     [
-        {
+	   {
+	     image:'./assets/img/themeBgs/listTheme1/xone-bg.jpg',
+	     colors: {
+		bgContentColor:"#ffffff1a",
+		borderBox:"hsla(0,0%,100%,0.2)",
+		borderPrimary:"hsla(0,0%,100%,0.1)",
+		layoutBg:"#1e1e1e",
+		linkTextHover:"#d7cb1f",
+		modalScrollbar:"rgba(16,31,63,0.8)",
+		playerBg:"rgba(0,0,0,0.2)",
+		purplePrimary:"#d7cb1f",
+		primaryBg:"#282828",
+		sidebarPopupBg: "#292929",
+		textColor:"#fff",
+		textItemHover:"#fff",
+		textSecondary:"hsla(0,0%,100%,0.5)",
+		navigationText: "#a0a0a0",
+		placeholderText: "#757575",
+	     },
+	     playerImage: './assets/img/themeBgs/listTheme1/playerThemes/xone-miniplayer.jpg',
+	    },
+	    {
             image:'./assets/img/themeBgs/listTheme1/theme1.svg',
             colors: {
                 bgContentColor:"#ffffff1a",
